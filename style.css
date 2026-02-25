@@ -86,7 +86,7 @@ footer {
     background-color: #1a1a2e;
     border-top: 2px solid #00f5ff;
 }
-.card img {
+.card:hover img {
     width: 50%;
     border-radius: 6px;
     margin-bottom: 15px;
