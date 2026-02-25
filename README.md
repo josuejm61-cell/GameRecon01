@@ -25,7 +25,7 @@ The site highlights key milestones from:
 https://josuejm61-cell.github.io/GameRecon01/index.html
 ---
 
-## 📁 Project Documentation
+## Project Documentation
 
 All project management documentation can be found in the `/docs` folder:
 
@@ -35,7 +35,7 @@ All project management documentation can be found in the `/docs` folder:
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - HTML5  
 - CSS3  
@@ -44,7 +44,7 @@ All project management documentation can be found in the `/docs` folder:
 
 ---
 
-## 🎯 Project Purpose
+## Project Purpose
 
 This project was developed as part of Project 03 to demonstrate:
 
@@ -56,7 +56,7 @@ This project was developed as part of Project 03 to demonstrate:
 
 ---
 
-## 🎨 Design Philosophy
+## Design Philosophy
 
 The site uses a dark theme with neon accent colors inspired by arcade aesthetics while maintaining a modern, clean layout.
 
@@ -69,14 +69,14 @@ Design goals included:
 
 ---
 
-## 👤 Author
+## Author
 
 **Josue Mondragon**  
 Computer Applications  
 
 ---
 
-## 📌 Notes
+## Notes
 
 This website is an informational archive only.  
 It does not host, stream, or distribute video games.
