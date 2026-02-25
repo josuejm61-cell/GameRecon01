@@ -27,7 +27,7 @@ https://josuejm61-cell.github.io/GameRecon01/index.html
 
 ## Project Documentation
 
-All project management documentation can be found in the `/docs` folder:
+All project management documentation can be found in the  [`docs`](docs) folder.
 
 - **scope.md** – Detailed Project Scope Statement (revised)
 - **plan.md** – Risk Analysis (TAME framework) + Work Breakdown Structure
