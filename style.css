@@ -88,7 +88,7 @@ footer {
 }
 .card:hover img {
     width: 50%;
-    border-radius: 6px;
+    border-radius: 180px;
     margin-bottom: 15px;
-    border: 2px solid #00f5ff;
+    border: 15px solid #00f5ff;
 }
