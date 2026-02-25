@@ -22,8 +22,7 @@ The site highlights key milestones from:
 ## 🚀 Live Website
 
 🔗 **View the live site here:**  
-https://github.com/josuejm61-cell/GameRecon01
-
+https://josuejm61-cell.github.io/GameRecon01/index.html
 ---
 
 ## 📁 Project Documentation
