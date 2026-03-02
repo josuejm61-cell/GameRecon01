@@ -8,5 +8,5 @@ Orginally I remebered that I learned the linking of the file folders from and fo
 
 
 
-3.What Would I do differently? 
+3. What Would I do differently? 
 I would be re-do the design itself. Instead of a page that shows the cards on top of eachother, I would do the cards side to side and the information panel would be side of the picture of the game. Also maybe a more of a hover over where the information panel would appear on the picture and dissapper when the mouse courser would leave that item. 
